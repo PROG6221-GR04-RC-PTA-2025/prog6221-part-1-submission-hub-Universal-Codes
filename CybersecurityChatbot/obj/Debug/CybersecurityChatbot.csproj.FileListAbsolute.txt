@@ -1,0 +1,7 @@
+C:\Users\RC_Student_lab\Desktop\Purple VS Code\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\Desktop\Purple VS Code\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\Desktop\Purple VS Code\CybersecurityChatbot\bin\Debug\CybersecurityChatbot.exe.config
+C:\Users\RC_Student_lab\Desktop\Purple VS Code\CybersecurityChatbot\bin\Debug\CybersecurityChatbot.exe
+C:\Users\RC_Student_lab\Desktop\Purple VS Code\CybersecurityChatbot\bin\Debug\CybersecurityChatbot.pdb
+C:\Users\RC_Student_lab\Desktop\Purple VS Code\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.exe
+C:\Users\RC_Student_lab\Desktop\Purple VS Code\CybersecurityChatbot\obj\Debug\CybersecurityChatbot.pdb
